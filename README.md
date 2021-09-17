@@ -1,2 +1,2 @@
 # ECE444Lab1
-Completion of Lab 1
+Joshua Pius joshua.pius@mail.utoronto.ca
